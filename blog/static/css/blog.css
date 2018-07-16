@@ -14,6 +14,10 @@
     margin-left: 40px;
 }
 
+.page-header a {
+    display: inline;
+}
+
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
